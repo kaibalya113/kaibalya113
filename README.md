@@ -1,0 +1,4 @@
+- 👋 Hi, I’m kaibalya
+- 👀 I’m interested in web and android development
+- 🌱 I’m currently learning Spring boot and React(for Front-End)
+- 📫 kaibalyamohanty0@gmail.com
